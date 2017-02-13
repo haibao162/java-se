@@ -16,4 +16,4 @@ public static void main(String[] args) throws IOException{
     fis.close();
 }
 }
-//复制文件
+//复制文件。。
